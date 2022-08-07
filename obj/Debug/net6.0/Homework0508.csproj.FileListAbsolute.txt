@@ -1,0 +1,15 @@
+C:\Users\Maria\Desktop\Seminar 05.08\examplesLection\Homework0508\bin\Debug\net6.0\Homework0508.exe
+C:\Users\Maria\Desktop\Seminar 05.08\examplesLection\Homework0508\bin\Debug\net6.0\Homework0508.deps.json
+C:\Users\Maria\Desktop\Seminar 05.08\examplesLection\Homework0508\bin\Debug\net6.0\Homework0508.runtimeconfig.json
+C:\Users\Maria\Desktop\Seminar 05.08\examplesLection\Homework0508\bin\Debug\net6.0\Homework0508.dll
+C:\Users\Maria\Desktop\Seminar 05.08\examplesLection\Homework0508\bin\Debug\net6.0\Homework0508.pdb
+C:\Users\Maria\Desktop\Seminar 05.08\examplesLection\Homework0508\obj\Debug\net6.0\Homework0508.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\Seminar 05.08\examplesLection\Homework0508\obj\Debug\net6.0\Homework0508.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\Desktop\Seminar 05.08\examplesLection\Homework0508\obj\Debug\net6.0\Homework0508.AssemblyInfoInputs.cache
+C:\Users\Maria\Desktop\Seminar 05.08\examplesLection\Homework0508\obj\Debug\net6.0\Homework0508.AssemblyInfo.cs
+C:\Users\Maria\Desktop\Seminar 05.08\examplesLection\Homework0508\obj\Debug\net6.0\Homework0508.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Seminar 05.08\examplesLection\Homework0508\obj\Debug\net6.0\Homework0508.dll
+C:\Users\Maria\Desktop\Seminar 05.08\examplesLection\Homework0508\obj\Debug\net6.0\refint\Homework0508.dll
+C:\Users\Maria\Desktop\Seminar 05.08\examplesLection\Homework0508\obj\Debug\net6.0\Homework0508.pdb
+C:\Users\Maria\Desktop\Seminar 05.08\examplesLection\Homework0508\obj\Debug\net6.0\Homework0508.genruntimeconfig.cache
+C:\Users\Maria\Desktop\Seminar 05.08\examplesLection\Homework0508\obj\Debug\net6.0\ref\Homework0508.dll
